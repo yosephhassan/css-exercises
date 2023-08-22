@@ -1,7 +1,3 @@
-/*
-- Div Three is aligned to the right.
-- Div Three's alignment is achieved using `margin` (and not float, flexbox, etc.).*/
-
 body {
   max-width: 600px;
   margin: 0 auto;
