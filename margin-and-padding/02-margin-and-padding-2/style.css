@@ -1,5 +1,4 @@
 /*
-s- There is an 8px gap between each of the blue sections inside the card.
 - The title of the card uses a 16px font.
 - There are 8px between the title text and the edge of the title section.
 - The content section has 16px space on the top and bottom, and 8px on either side.
@@ -22,10 +21,12 @@ body {
 
 .title {
   background: #e3f4ff;
+  margin-bottom: 8px;
 }
 
 .content {
   background: #e3f4ff;
+  margin-bottom: 8px;
 }
 
 .button-container {
