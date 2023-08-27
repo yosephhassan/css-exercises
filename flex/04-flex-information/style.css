@@ -37,4 +37,11 @@ img {
 .title-container {
   display: flex;
   justify-content: center;
+  padding-bottom: 32px;
+}
+
+.Content {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
 }
