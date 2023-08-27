@@ -52,12 +52,20 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  width: 300px;
   flex: 0 0 auto;
+  padding: 16px;
 }
 
 .sidebar ul {
-  
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.sidebar ul a {
+  text-decoration: none;
+  color: white;
+  font-size: 24px;
 }
 
 .card {
