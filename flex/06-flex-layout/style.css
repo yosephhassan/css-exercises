@@ -54,6 +54,7 @@ ul {
 
 a {
   text-decoration: none;
+  color: rgb(94, 94, 94);
 }
 
 .footer {
@@ -62,4 +63,12 @@ a {
 
 .header {
   margin-bottom: auto;
+}
+
+.right-links {
+  margin-left: auto;
+}
+
+.footer {
+  background-color: #eeeeee;
 }
