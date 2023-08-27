@@ -39,3 +39,27 @@ input {
   margin-bottom: 16px;
 }
 
+.header, .footer{
+  display: flex;
+  padding: 15px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  gap: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.footer {
+  margin-top: auto;
+}
+
+.header {
+  margin-bottom: auto;
+}
