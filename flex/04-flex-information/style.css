@@ -28,7 +28,7 @@ img {
 .title-container {
   display: flex;
   justify-content: center;
-  padding-bottom: 32px;
+  margin-bottom: 32px;
 }
 
 .Content {
@@ -37,13 +37,13 @@ img {
   gap: 52px;
 }
 
-.first-item, .second-item, .third-item, .fourth-item {
+.item{
   display: flex;
   flex-flow: column wrap;
   align-items: center;
   width: 200px;
 }
 
-.first-item .text,  .second-item .text, .third-item .text, .fourth-item .text {
+.item .text {
   text-align: center;
 }
