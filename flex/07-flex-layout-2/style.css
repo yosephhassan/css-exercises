@@ -78,3 +78,16 @@ body {
   display: flex;
   flex: 1;
 }
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 32px;
+  gap: 30px;
+}
+
+.cards .card {
+  flex: 0 1 0; 
+  min-width: 300px;
+  padding: 15px;
+}
