@@ -36,6 +36,7 @@ body {
   font-weight: 900;
   display: flex;
   align-items: center;
+  padding-left: 16px;
 }
 
 .footer {
