@@ -82,7 +82,7 @@ button.cancel {
   color: royalblue;
 }
 
-.top {
+.content {
   display: flex;
   flex-direction: column;
 }
